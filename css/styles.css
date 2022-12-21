@@ -2,6 +2,7 @@ body {
   text-align: center;
   overflow-x: hidden;
 }
-h1 {
-  color: red;
+
+.fullsize {
+  height: 90vh;
 }
